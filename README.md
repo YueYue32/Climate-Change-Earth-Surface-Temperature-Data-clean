@@ -11,7 +11,7 @@
 4. 計算城市每年的平均溫度
 5. 將處理後資料儲存成新 CSV 檔案，方便後續分析或視覺化
 
-資料來源：假設使用 Kaggle 的 [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+資料來源：使用 Kaggle 的 [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
 
 ---
 
